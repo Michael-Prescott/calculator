@@ -1,0 +1,7 @@
+.App {
+    border: 3px solid blue;
+    height: 100em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

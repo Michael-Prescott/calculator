@@ -1,0 +1,6 @@
+.Keypad {
+    background-color: blue;
+    display: flex;
+    flex-wrap: wrap;
+    height: 75%;
+}
